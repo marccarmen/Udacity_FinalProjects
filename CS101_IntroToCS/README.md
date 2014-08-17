@@ -1,4 +1,4 @@
-Udacity_IntroToCS
+CS 101 Intro To Computer Science
 =================
 The code I put together for the final project in the CS101 Introduction to Computer Science
 course.  It was an enjoyable class and a good way to break myself in to the MOOC
